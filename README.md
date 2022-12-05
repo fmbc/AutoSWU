@@ -1,5 +1,5 @@
 # 무선 네트워크 활용 차량 내 행동 분석 <br> (Wireless network-based in-vehicle behavioral analysis)
-<img width="60%" align="center" src="/readmepic/diagram.png"/>
+<p align="center"><img width="60%" src="/readmepic/diagram.png"/></p>
 
  현재 자율주행기술이 많이 발전되었지만 아직은 운전자가 주체인 2, 3단계로 운전자가 의식이 없는 경우 사고 및 2차 사고 발생의 위험성이 존재한다. 오토슈(Autoswu)는 이러한 사고를 예방하기 위해서 네트워크로 운전자의 행동을 분석하는 프로젝트를 진행하게 되었다. 기존 행동 분석 기술로 주로 카메라가 사용되고 있다. 카메라는 빛에 취약하고, 사용되는 메모리가 크며 개인정보 침해의 우려가 있어 이러한 문제점을 무선 네트워크로 보완하고자 한다.
  
